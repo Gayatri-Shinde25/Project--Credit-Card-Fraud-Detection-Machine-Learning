@@ -1,2 +1,2 @@
-# ML-Project-DEPLOYMENT-USING-FLASK
-Machine Learning
+# Credit Card Fraud detection and deployment using Flask
+Credit card fraud detection using machine learning involves training models on transactional data to identify and flag potentially fraudulent activities. Deploying this model with Flask allows for a web-based interface where real-time transactions can be evaluated for fraud, providing businesses with a seamless and scalable solution to monitor and respond to fraudulent behavior
